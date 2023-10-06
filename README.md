@@ -185,5 +185,3 @@ void loop() {
   }
 }
 
-
-https://twitter.com/valltorresss/status/1710439175743279594?s=19
