@@ -184,3 +184,5 @@ void loop() {
     Serial.println(" - Detectado AZUL");
   }
 }
+
+https://pin.it/4K5Vjy2
