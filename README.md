@@ -16,6 +16,24 @@ El sensor de color con integrado TCS230 puede filtrar los datos RGB de la fuente
 - Modo de bajo consumo de energía.
 - Leds incluidos en el PCB para iluminar el objeto a reconocer.
 - Se comunica directamente con un microcontrolador (PIC, Arduino, etc.)
+  
+   Algunos modelos de sensores a color:
+- TCS3200
+- TCS3210
+- TCS30DLU
+- TCS30DPU
+- TCS30NPU
+- TCS30SPU
+- TCS3103
+- TCS3103FN
+- TCS3104
+- TCS3400
+- TCS3404
+- TCS3404CS
+- TCS3404FN
+- TCS3200D-TR
+- TCS3200-EVM
+  
 
   //
 // Cableado de TCS3200 a Arduino
@@ -184,5 +202,7 @@ void loop() {
     Serial.println(" - Detectado AZUL");
   }
 }
+
+
 
 Valentina Barrios
