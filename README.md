@@ -203,6 +203,6 @@ void loop() {
   }
 }
 
-
+//En general, este código propio de un TCS3200 implica la función de reconocer y mostras todo color que tenga registrado, de lo contrario la salida seria "no registrado"
 
 Valentina Barrios
