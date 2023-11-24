@@ -1,4 +1,4 @@
-Sensor TCS3200
+Sensor TCS3200 (Traction Color System)
 𝑹.𝑷.𝑺 𝒅𝒂 𝒇𝒊𝒔𝒉𝒊𝒏
 Modulo Sensor De Color Tcs3200
 Microcontrolador: TCS3200
